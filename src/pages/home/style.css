@@ -1,0 +1,27 @@
+.bloco1{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-image: url(https://images8.alphacoders.com/133/1332612.jpeg);
+}
+
+.bloco2{
+    background-color: black;
+    height: 100vh;
+    width: min-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+section{
+    display: flex;
+
+}
+
+h1{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

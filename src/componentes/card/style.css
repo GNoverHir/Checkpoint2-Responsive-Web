@@ -1,0 +1,19 @@
+.CardGeral {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 3vw;
+}
+
+.InfoCard {
+    margin-left: 2vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.CardGeral img{
+    border-radius: 10px;
+}
